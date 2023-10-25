@@ -1,0 +1,27 @@
+/my-academic-website
+│
+├── _data
+│   ├── publications.yml
+│   └── courses.yml
+│
+├── _layouts
+│   ├── default.html
+│   └── post.html
+│
+├── _posts
+│   └── YYYY-MM-DD-sample-blog-post.md
+│
+├── assets
+│   ├── img
+│   │   └── profile.jpg
+│   ├── css
+│   │   └── style.css
+│   └── js
+│       └── scripts.js
+│
+├── about.md
+├── publications.md
+├── teaching.md
+├── projects.md
+├── contact.md
+└── index.md
